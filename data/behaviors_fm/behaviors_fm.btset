@@ -1,0 +1,9 @@
+{
+  "name": "behaviors_fm",
+  "trees": [
+    "wait.bt"
+  ],
+  "initScripts": [],
+  "parameters": {},
+  "capabilities": {}
+}
